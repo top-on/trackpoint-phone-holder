@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="1.6586466"
-     inkscape:cx="203.7806"
-     inkscape:cy="474.18177"
+     inkscape:zoom="2.4010261"
+     inkscape:cx="226.98629"
+     inkscape:cy="517.48708"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -104,5 +104,11 @@
        cx="25"
        cy="161"
        r="1" />
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path746"
+       cx="99.534088"
+       cy="100.96914"
+       r="1.0873607" />
   </g>
 </svg>
