@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="2.4010261"
-     inkscape:cx="226.98629"
-     inkscape:cy="517.48708"
+     inkscape:zoom="1.8103876"
+     inkscape:cx="45.294167"
+     inkscape:cy="619.4806"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -49,21 +49,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke-width:0.264583"
-       d="m 37.364583,158.71875 h 2.645833"
-       id="path310" />
-    <path
        style="fill:#000000"
        d="M 0,0 V 0 0 0 0 0"
        id="path314" />
-    <path
-       style="fill:#000000;stroke-width:0.264583"
-       d="M 37.364583,158.71875 H 38.6875 v 0"
-       id="path316" />
-    <path
-       style="fill:#000000;stroke-width:0.264583"
-       d="m 38.422916,158.71875 h 1.5875"
-       id="path318" />
     <path
        style="fill:#000000;stroke-width:0.264583"
        d="m 40.010416,158.71875 v 2.11667"
