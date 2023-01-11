@@ -13,6 +13,6 @@ The general idea of how the phone will be attached is like this:
 
 ## Editing workflow
 
-1. Edit SVG file, e.g. with [Inkscape](https://inkscape.org/).
+1. Edit `construction.svg`, e.g. with [Inkscape](https://inkscape.org/).
 2. Convert SVG file to STL, by running `svg_to_stl.scad` in [OpenSCAD](https://openscad.org/).
 3. Print STL file.
