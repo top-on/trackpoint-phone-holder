@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="4.0672858"
-     inkscape:cx="196.69136"
-     inkscape:cy="523.0761"
+     inkscape:zoom="3.9374684"
+     inkscape:cx="140.95351"
+     inkscape:cy="582.2269"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -63,15 +63,15 @@
        id="path608"
        sodipodi:nodetypes="cccccccccc" />
     <path
-       style="fill:#000000;stroke-width:0.264583"
-       d="m 48,148 h -4 -4 v -2 h 10.000001 v 2 z"
+       style="fill:#000000;stroke-width:0.289836"
+       d="M 47.6,148 H 42.8 38 v -2 h 12.000001 v 2 z"
        id="path610"
        sodipodi:nodetypes="ccccccc" />
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="path691"
-       cx="41"
-       cy="138"
+       cx="39"
+       cy="138.05659"
        r="1" />
     <circle
        style="fill:#000000;stroke-width:0.264583"
@@ -90,8 +90,8 @@
        id="rect296"
        width="2"
        height="8"
-       x="40"
-       y="138" />
+       x="38"
+       y="138.05659" />
     <path
        style="fill:#000000;stroke-width:0.264583"
        d="m 48.999999,146 50,-46 L 100,102 50,148 Z"
